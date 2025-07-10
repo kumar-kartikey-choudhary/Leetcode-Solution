@@ -1,4 +1,4 @@
-package in.leetcode;
+package String;
 
 public class BalancedStringSplit {
 	
